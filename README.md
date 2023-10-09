@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @STARXLINK
-- 👀 I’m interested in ... DEVELOPING CODING THE STAR-X UNIVERSE & STAR-X LINK our AI IN DEVELOPMENT
-- 🌱 I’m currently learning ... CRYENGIne
-- 💞️ I’m looking to collaborate on ... STAR-X A CROSS PLATFORM SPACE SIM GAME 
+- 👀 I’m interested in ... DEVELOPING an AI ML for predective model using heavy datasets.
+- 🌱 I’m currently learning ... Python and libraries Numpy, Pandas, Matplotlib, Scipy Ect.
+- 💞️ I’m looking to collaborate on ... Dataset storing building and sorting and connecting funtions and algorthims.
 - 📫 How to reach me ... COMPARCOLA@GMAIL.COM
 
 <!---
