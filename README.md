@@ -7,3 +7,8 @@
 🎶 Outside of tech and business, I'm an avid lover of eclectic music and movies, embracing diverse tastes and experiences.
 
 🌐 I'm here to collaborate, innovate, and contribute to a future where technology and humanity harmoniously coexist.
+
+START HERE 
+
+FRONT END HELP NEEDED AND ENCOURAGED >>>>> [FrontEndREADME.md](FrontEndREADME.md)
+
