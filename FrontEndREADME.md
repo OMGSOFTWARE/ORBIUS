@@ -9,12 +9,20 @@ Voice Navigation: Voice command capabilities for intuitive browsing.
 Personalized Experience: AI-driven customization based on user preferences.
 Smart Security: Advanced AI security protocols for safe browsing.
 Accessibility Features: Inclusive tools to assist users with disabilities.
+
+
 Technology Stack
+
 Front-End: JavaScript/TypeScript with React.
+
 Back-End: Node.js and Flask (Python) for AI operations.
+
 AI and ML: TensorFlow, PyTorch, NLTK.
+
 Database: MongoDB and Elasticsearch.
+
 Cloud Services: AWS.
+
 Security: OAuth 2.0/OpenID, SSL/TLS.
 
 Installation
