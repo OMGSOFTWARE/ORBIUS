@@ -1,32 +1,22 @@
 Contributing to Orbi Browser
 Introduction
-Thank you for considering contributing to Orbi Browser! We appreciate contributions from our community of developers, entrepreneurs, futurists, and anyone excited about the potential of AI in reshaping our digital world.
+Thank you for your interest in contributing to the Orbi Browser project, a proprietary software developed by OMG SOFTWARE LLC and parent company Opal Mar Group Corporation, licensed in New Jersey, USA.
 
-How to Contribute
-Fork the Repository
-
-Begin by forking the Orbi Browser repository on GitHub.
-Create a Branch
-
-Create a new branch in your fork for your contributions.
-Make Your Contributions
-
-Add your features, fixes, or improvements to your branch.
-Commit Messages
-
-Write clear, concise commit messages that describe your changes.
-Include Tests
-
-If adding new features, accompany them with relevant tests.
-Adhere to Coding Standards
-
-Ensure your code follows the project's coding standards.
-Submit a Pull Request
-
-After making your changes, submit a pull request for review.
+Contribution Guidelines
+Fork and Branch: Fork the repository and create a branch for your contribution.
+Make Contributions: Develop your features, enhancements, or fixes.
+Commit Messages: Use clear, descriptive commit messages.
+Testing: Include tests for new features or fixes.
+Pull Request: Submit a pull request for review.
+Proprietary License
+Contributions to Orbi Browser are subject to a proprietary license.
+Contributors agree that all code contributions will be the exclusive property of OMG SOFTWARE LLC and Opal Mar Group Corporation.
+Redistribution and commercial use of the project are strictly prohibited without explicit permission from OMG SOFTWARE LLC.
 Reporting Issues
-For bug reports or feature requests, please use the GitHub issues tracker, providing detailed information.
-Enhancing Documentation
+Use GitHub Issues for bug reporting or feature suggestions.
+contact
+COMPARCOLA@GMAIL.COM
+
 Contributions to improve documentation are highly encouraged.
 Community Participation
 Please be respectful and supportive of fellow contributors.
