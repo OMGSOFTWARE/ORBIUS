@@ -24,10 +24,10 @@ Usage
 Detailed usage instructions and examples will be included here.
 
 Contributing
-Contributions to Orbi Browser are welcome! Please read our CONTRIBUTE.md for contribution guidelines and the submission process.
+Contributions to Orbi Browser are welcome! Please read our [CONTRIBUTE.md](CONTRIBUTE.md) for contribution guidelines and the submission process.
 
 License
-This project is protected under a proprietary license - see the LICENSE.md file for details.
+This project is protected under a proprietary license - see the [LICENSE.md](LICENSE.md) file for details.
 
 Acknowledgments
 Gratitude to all contributors and supporters of the Orbi Browser project.
