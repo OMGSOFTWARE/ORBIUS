@@ -25,10 +25,10 @@ Instructions for installing Orbi Browser will be provided here when the time com
 Detailed usage instructions and examples will be available here.
 
 ## Contributing
-We welcome contributions to the Orbi Browser project! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests to us.
+We welcome contributions to the Orbi Browser project! Please read our [CONTRIBUTE.md](CONTRIBUTE.md) for details on our code of conduct and the process for submitting pull requests to us.
 
 ## License
-This project is licensed under the proprietary software developed by OMG SOFTWARE LLC and parent company Opal Mar Group Corporation, licensed in New Jersey, USA.- see the LICENSE.md file for details. COPYRIGHT © 2022-2023 OMG SOFTWARE LLC a Opal Mar Group Corporation Company, ALL Right Reserved. 
+This project is licensed under the proprietary software developed by OMG SOFTWARE LLC and parent company Opal Mar Group Corporation, licensed in New Jersey, USA.- see the [License.md](License.md) file for details. COPYRIGHT © 2022-2023 OMG SOFTWARE LLC a Opal Mar Group Corporation Company, ALL Right Reserved. 
 
 ## Acknowledgments
 - Thanks to all contributors and supporters of the Orbi Browser project.
